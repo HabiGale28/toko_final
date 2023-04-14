@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(250, 252, 163);
+}
+.dov{
+    padding-top: 100px;
+}
+.form{
+    width: 350px;
+    height: 290px;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 15px;
+    background-color: rgb(229, 241, 177);
+}
+.input{
+    width: 200px;
+    height: 18px;
+    border-radius: 8px;
+}
+.submit{
+    width: 70px;
+    height: 27px;
+    border-radius: 8px;
+}
